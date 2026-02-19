@@ -4,6 +4,7 @@ print(f'la logitud de la lista es: {len(lista)}')
 suma=0
 for i in lista:
     suma+=i
+    
 print(f'\nla suma de los elementos de la lista es: {suma}')
 
 multiplicacion=1
